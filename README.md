@@ -31,8 +31,17 @@ Me especializo en el diseño de reportes, visualizaciones y procesos ETL para tr
 <p align="left">• Propongo mejoras basadas en datos para optimizar procesos y alcanzar objetivos 💯 </p>
 
 
+<!--Proyectos-->
+<h3 align="left">💻 Proyectos Personales: </h3>
+
 - 🔭 Actualmente trabajando en: [NBAnalitycs](https://github.com/frankmerlod/Henry-PF)
-  
+
+<p align="left">
+<a href="https://github.com/frankmerlod?tab=repositories" target="blank">Repositorio</a>
+</p>
+
+
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

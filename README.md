@@ -36,20 +36,23 @@ Me especializo en el diseño de reportes, visualizaciones y procesos ETL para tr
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--Estadisticas del perfil-->
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frankmerlod&show_icons=true&locale=en" alt="frankmerlod" /></p>
 
-
+<!--Contador de visitas-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankmerlod&label=Profile%20views&color=0e75b6&style=flat" alt="frankmerlod" /> </p>
 
-
+<!--Contacto-->
 <h3 align="left">No dudes en contactarme para llevar tus datos al siguiente nivel 📊💻</h3>
 <p align="left">
-<a href="https://linkedin.com/in/frankmerlod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frankmerlod" height="30" width="40" /></a>
 <a href="mailto:frankmerlod@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="frankmerlod" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://linkedin.com/in/frankmerlod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frankmerlod" height="30" width="40" /></a>
 </p>
 
 
-
+<!--Stack de herramientas-->
 <h3 align="left">Stack de herramientas 🔍📊:</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 

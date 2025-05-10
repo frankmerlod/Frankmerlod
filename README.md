@@ -1,9 +1,11 @@
 
 <h1 align="center">Hola👋</h1>
+
 <h3 align="left">Mi nombre es Frank Merlo, </h3>
 <h3 align="left">Analista de Datos, apasionado por convertir datos en decisiones estratégicas 📊💻</h3>
 
-<hr>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 Me especializo en el diseño de reportes, visualizaciones y procesos ETL para transformar información compleja en insights accionables, utilizando herramientas como: 
 <p align="left"> • Power BI 📊 </p>
@@ -24,9 +26,9 @@ Me especializo en el diseño de reportes, visualizaciones y procesos ETL para tr
 
 
 - 🔭 Actualmente trabajando en: [NBAnalitycs](https://github.com/frankmerlod/Henry-PF)
-
-
-<hr>
+  
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frankmerlod&show_icons=true&locale=en" alt="frankmerlod" /></p>
 
@@ -40,7 +42,7 @@ Me especializo en el diseño de reportes, visualizaciones y procesos ETL para tr
 <a href="mailto:frankmerlod@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="frankmerlod" height="30" width="40" /></a>
 </p>
 
-<hr>
+
 
 <h3 align="left">Stack de herramientas 🔍📊:</h3>
 <p align="left"> 

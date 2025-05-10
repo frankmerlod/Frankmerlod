@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola👋</h1>
-<h3 align="left">Mi nombre es Frank Merlo </h3>
+<h3 align="left">Mi nombre es Frank Merlo, </h3>
 <h3 align="left">Analista de Datos, apasionado por convertir datos en decisiones estratégicas 📊💻</h3>
 
 <hr>
@@ -11,7 +11,6 @@ Me especializo en el diseño de reportes, visualizaciones y procesos ETL para tr
 <p align="left">• Excel 📑 </p>
 <p align="left">• Python 🐍 </p>
 
-<hr>
 
 <h3 align="left">💡 ¿Cómo aporto valor? </h3>
 
@@ -23,7 +22,6 @@ Me especializo en el diseño de reportes, visualizaciones y procesos ETL para tr
 
 <p align="left">• Propongo mejoras basadas en datos para optimizar procesos y alcanzar objetivos 💯 </p>
 
-<hr>
 
 - 🔭 Actualmente trabajando en: [NBAnalitycs](https://github.com/frankmerlod/Henry-PF)
 

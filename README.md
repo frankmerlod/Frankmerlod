@@ -1,11 +1,17 @@
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block"> Hola👋</h1></summary>
+  </ul>
+</div>
 
-<h1 align="center">Hola👋</h1>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <h3 align="left">Mi nombre es Frank Merlo, </h3>
 <h3 align="left">Analista de Datos, apasionado por convertir datos en decisiones estratégicas 📊💻</h3>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 Me especializo en el diseño de reportes, visualizaciones y procesos ETL para transformar información compleja en insights accionables, utilizando herramientas como: 
 <p align="left"> • Power BI 📊 </p>
